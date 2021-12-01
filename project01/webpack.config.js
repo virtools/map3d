@@ -111,10 +111,11 @@ module.exports = {
     }),
     new CopyWebpackPlugin({
       patterns: [
-        //{ from: "./src/res", to: "res" },
+        { from: "./src/res", to: "res" },
         { from: path.join(cesiumSource, cesiumWorkers), to: "Workers" },
         { from: path.join(cesiumSource, "Assets"), to: "Assets" },
         { from: path.join(cesiumSource, "Widgets"), to: "Widgets" },
+        { from: path.join(cesiumSource, "ThirdParty"), to: "ThirdParty" },
       ],
     }),
     new MiniCssExtractPlugin({ filename: "css/[name].[hash].css" }),
