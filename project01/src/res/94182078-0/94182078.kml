@@ -1,0 +1,838 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <Schema />
+        <Placemark>
+            <name>1SGDQ4PLNP</name>
+            <Style id="default" />
+            <Model id="1SGDQ4PLNP">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4336199</longitude>
+                    <latitude>22.5712548</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SGDQ4PLNP.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5713548</north>
+                    <south>22.5711548</south>
+                    <east>120.4337199</east>
+                    <west>120.4335199</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.990</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SGDQ4PLNP</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR">NA</SimpleData>
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">201009</SimpleData>
+                    <SimpleData name="BUILD_H">2.990</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">0</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">201912</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SGDQ4PLNP</SimpleData>
+                    <SimpleData name="CENT_E_97">191736.7600000</SimpleData>
+                    <SimpleData name="CENT_N_97">2496917.4900000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SHC24PNL2</name>
+            <Style id="default" />
+            <Model id="1SHC24PNL2">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4343787</longitude>
+                    <latitude>22.5730333</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SHC24PNL2.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5731333</north>
+                    <south>22.5729333</south>
+                    <east>120.4344787</east>
+                    <west>120.4342787</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>4.680</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SHC24PNL2</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR">NA</SimpleData>
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">201410</SimpleData>
+                    <SimpleData name="BUILD_H">4.680</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">0</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">201912</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SHC24PNL2</SimpleData>
+                    <SimpleData name="CENT_E_97">191833.8070000</SimpleData>
+                    <SimpleData name="CENT_N_97">2497113.7700000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SHDD4PJK1</name>
+            <Style id="default" />
+            <Model id="1SHDD4PJK1">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.434464</longitude>
+                    <latitude>22.5693249</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SHDD4PJK1.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5694249</north>
+                    <south>22.5692249</south>
+                    <east>120.434564</east>
+                    <west>120.434364</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.590</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SHDD4PJK1</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR">NA</SimpleData>
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">201410</SimpleData>
+                    <SimpleData name="BUILD_H">2.590</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">0</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">201912</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SHDD4PJK1</SimpleData>
+                    <SimpleData name="CENT_E_97">191838.0610000</SimpleData>
+                    <SimpleData name="CENT_N_97">2496700.8900000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SJDG4PLHL</name>
+            <Style id="default" />
+            <Model id="1SJDG4PLHL">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4354677</longitude>
+                    <latitude>22.5711277</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SJDG4PLHL.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5712277</north>
+                    <south>22.5710277</south>
+                    <east>120.4355677</east>
+                    <west>120.4353677</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.900</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SJDG4PLHL</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR">NA</SimpleData>
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">201709</SimpleData>
+                    <SimpleData name="BUILD_H">2.900</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">0</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">201912</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SJDG4PLHL</SimpleData>
+                    <SimpleData name="CENT_E_97">191940.7890000</SimpleData>
+                    <SimpleData name="CENT_N_97">2496901.1800000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SK534PNAL</name>
+            <Style id="default" />
+            <Model id="1SK534PNAL">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4361827</longitude>
+                    <latitude>22.5727745</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SK534PNAL.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5728745</north>
+                    <south>22.5726745</south>
+                    <east>120.4362827</east>
+                    <west>120.4360827</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.920</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SK534PNAL</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR">NA</SimpleData>
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">201410</SimpleData>
+                    <SimpleData name="BUILD_H">2.920</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">0</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">201912</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SK534PNAL</SimpleData>
+                    <SimpleData name="CENT_E_97">192016.3220000</SimpleData>
+                    <SimpleData name="CENT_N_97">2497083.5800000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SKBD4PKW0</name>
+            <Style id="default" />
+            <Model id="1SKBD4PKW0">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4363594</longitude>
+                    <latitude>22.5705502</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SKBD4PKW0.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5706502</north>
+                    <south>22.5704502</south>
+                    <east>120.4364594</east>
+                    <west>120.4362594</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.010</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SKBD4PKW0</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR">NA</SimpleData>
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">201510</SimpleData>
+                    <SimpleData name="BUILD_H">2.010</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">0</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">201912</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SKBD4PKW0</SimpleData>
+                    <SimpleData name="CENT_E_97">192036.4870000</SimpleData>
+                    <SimpleData name="CENT_N_97">2496838.4300000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SG604P7TU</name>
+            <Style id="default" />
+            <Model id="1SG604P7TU">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4332343</longitude>
+                    <latitude>22.5593704</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SG604P7TU.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5594704</north>
+                    <south>22.5592704</south>
+                    <east>120.4333343</east>
+                    <west>120.4331343</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>4.310</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SG604P7TU</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR" />
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">2015</SimpleData>
+                    <SimpleData name="BUILD_H">4.310</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">1</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">202101</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SG604P7TU</SimpleData>
+                    <SimpleData name="CENT_E_97">191712.0000000</SimpleData>
+                    <SimpleData name="CENT_N_97">2500000.0000000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SGG64PLH4</name>
+            <Style id="default" />
+            <Model id="1SGG64PLH4">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4335029</longitude>
+                    <latitude>22.5710826</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SGG64PLH4.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5711826</north>
+                    <south>22.5709826</south>
+                    <east>120.4336029</east>
+                    <west>120.4334029</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.510</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SGG64PLH4</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR" />
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">2010</SimpleData>
+                    <SimpleData name="BUILD_H">2.510</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">1</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">202101</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SGG64PLH4</SimpleData>
+                    <SimpleData name="CENT_E_97">191744.6100000</SimpleData>
+                    <SimpleData name="CENT_N_97">2500000.0000000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SGN74PBDJ</name>
+            <Style id="default" />
+            <Model id="1SGN74PBDJ">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4337233</longitude>
+                    <latitude>22.5626602</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SGN74PBDJ.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5627602</north>
+                    <south>22.5625602</south>
+                    <east>120.4338233</east>
+                    <west>120.4336233</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.730</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SGN74PBDJ</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR" />
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">2015</SimpleData>
+                    <SimpleData name="BUILD_H">2.730</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">1</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">202101</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SGN74PBDJ</SimpleData>
+                    <SimpleData name="CENT_E_97">191763.8600000</SimpleData>
+                    <SimpleData name="CENT_N_97">2500000.0000000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SHFS4P1LR</name>
+            <Style id="default" />
+            <Model id="1SHFS4P1LR">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4345588</longitude>
+                    <latitude>22.5536204</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SHFS4P1LR.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5537204</north>
+                    <south>22.5535204</south>
+                    <east>120.4346588</east>
+                    <west>120.4344588</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.190</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SHFS4P1LR</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR" />
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">2017</SimpleData>
+                    <SimpleData name="BUILD_H">2.190</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">1</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">202101</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SHFS4P1LR</SimpleData>
+                    <SimpleData name="CENT_E_97">191845.8400000</SimpleData>
+                    <SimpleData name="CENT_N_97">2490000.0000000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SHTJ4PFN2</name>
+            <Style id="default" />
+            <Model id="1SHTJ4PFN2">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4348713</longitude>
+                    <latitude>22.5666058</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SHTJ4PFN2.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5667058</north>
+                    <south>22.5665058</south>
+                    <east>120.4349713</east>
+                    <west>120.4347713</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.700</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SHTJ4PFN2</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR" />
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">2010</SimpleData>
+                    <SimpleData name="BUILD_H">2.700</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">1</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">202101</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SHTJ4PFN2</SimpleData>
+                    <SimpleData name="CENT_E_97">191883.3900000</SimpleData>
+                    <SimpleData name="CENT_N_97">2500000.0000000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SHXU4PBT5</name>
+            <Style id="default" />
+            <Model id="1SHXU4PBT5">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4350193</longitude>
+                    <latitude>22.5630533</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SHXU4PBT5.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5631533</north>
+                    <south>22.5629533</south>
+                    <east>120.4351193</east>
+                    <west>120.4349193</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>3.280</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SHXU4PBT5</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR" />
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">2010</SimpleData>
+                    <SimpleData name="BUILD_H">3.280</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">1</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">202101</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SHXU4PBT5</SimpleData>
+                    <SimpleData name="CENT_E_97">191897.1700000</SimpleData>
+                    <SimpleData name="CENT_N_97">2500000.0000000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>1SKMS4PFLU</name>
+            <Style id="default" />
+            <Model id="1SKMS4PFLU">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <Location>
+                    <longitude>120.4366842</longitude>
+                    <latitude>22.5665778</latitude>
+                    <altitude>0</altitude>
+                </Location>
+                <Orientation id="model">
+                    <heading>0</heading>
+                    <tilt>0</tilt>
+                    <roll>0</roll>
+                </Orientation>
+                <Scale id="model">
+                    <x>1</x>
+                    <y>1</y>
+                    <z>1</z>
+                </Scale>
+                <Link>
+                    <href>KML$24084/files/E_1SKMS4PFLU.dae</href>
+                    <viewRefreshMode>onRegion</viewRefreshMode>
+                </Link>
+            </Model>
+            <Region>
+                <LatLonAltBox>
+                    <north>22.5666778</north>
+                    <south>22.5664778</south>
+                    <east>120.4367842</east>
+                    <west>120.4365842</west>
+                    <minAltitude>0</minAltitude>
+                    <maxAltitude>2.040</maxAltitude>
+                </LatLonAltBox>
+                <Lod>
+                    <minLodPixels>36</minLodPixels>
+                    <maxLodPixels>-1</maxLodPixels>
+                </Lod>
+            </Region>
+            <ExtendedData>
+                <SchemaData schemaUrl="#BuildInfo">
+                    <SimpleData name="BUILD_ID">1SKMS4PFLU</SimpleData>
+                    <SimpleData name="BUILDNAME">NA</SimpleData>
+                    <SimpleData name="BUILDTYPE">NA</SimpleData>
+                    <SimpleData name="BUILD_STR" />
+                    <SimpleData name="M_SOURCE">00</SimpleData>
+                    <SimpleData name="SOURCE">1</SimpleData>
+                    <SimpleData name="SOURCE_DES">106年度臺灣通用電子地圖</SimpleData>
+                    <SimpleData name="MDATE">2014</SimpleData>
+                    <SimpleData name="BUILD_H">2.040</SimpleData>
+                    <SimpleData name="H_SOURCE">0</SimpleData>
+                    <SimpleData name="H_EXTRAC">1</SimpleData>
+                    <SimpleData name="BUILD_NO">1</SimpleData>
+                    <SimpleData name="NO_SOURCE">1</SimpleData>
+                    <SimpleData name="M_MDATE">202101</SimpleData>
+                    <SimpleData name="MODEL_LOD">1</SimpleData>
+                    <SimpleData name="COUNTY">E</SimpleData>
+                    <SimpleData name="MODEL_NAME">E_1SKMS4PFLU</SimpleData>
+                    <SimpleData name="CENT_E_97">192069.8300000</SimpleData>
+                    <SimpleData name="CENT_N_97">2500000.0000000</SimpleData>
+                    <SimpleData name="C_FRAMEID">94182078</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+    </Document>
+</kml>
